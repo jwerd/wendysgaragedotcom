@@ -14,6 +14,16 @@
             <div class="text-xl flex flex-col sm:flex-row items-center relative flex-1 justify-center">
                 <span class="text-4xl text-black">Wendy's Garage</span>
             </div>
+            <div>
+                            <!-- Regular -->
+                <i class="far fa-user"></i>
+
+                <!-- Solid -->
+                <i class="fas fa-user"></i>
+
+                <!-- Brand -->
+                <i class="fab fa-dev"></i>
+            </div>
             <section class="grid mx-20">
                 <x-product-item title="Distressed High Boy (Walter)"></x-product-item>
                 <x-product-item title="Distressed Hutch (Jason)"></x-product-item>
